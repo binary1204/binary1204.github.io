@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: binary1204/binary1204.github.io
 github_url: https://github.com/binary1204
 url: https://binary1204.github.io
-enforce_ssl: binary1204.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
